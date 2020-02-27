@@ -134,4 +134,13 @@
 1. [Deploying Istio with Kubernetes](https://www.linode.com/docs/kubernetes/how-to-deploy-istio-with-kubernetes/) - Updated on Tuesday, January 21, 2020.
 
 2. [Istio Routing Basics](https://softwareengineeringdaily.com/2018/11/26/istio-routing-basics)
-   - We have to install Kubernestes and Istio wtih automatic sidecare injection first
+   - We have to install Kubernestes and Istio with automatic sidecare injection first
+
+3. [The Ultimate Guide to the Kubernetes Dashboard: How to Install, Access, Authenticate and Add Heapster Metrics](https://www.replex.io/blog/how-to-install-access-and-add-heapster-metrics-to-the-kubernetes-dashboard)
+   - Note: The newest dashboard UI can be found [here](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
+
+4. [How To Install and Use Istio With Kubernetes](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-istio-with-kubernetes)
+
+5. [How to configure ingress gateway in istio?](https://stackoverflow.com/questions/56643594/how-to-configure-ingress-gateway-in-istio)
+
+6. [How to add custom port for istio ingress gateway?](https://stackoverflow.com/questions/56661765/how-to-add-custom-port-for-istio-ingress-gateway)
