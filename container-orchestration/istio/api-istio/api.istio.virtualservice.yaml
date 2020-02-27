@@ -1,0 +1,18 @@
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  name: peopleapi-vs
+spec:
+  hosts:
+  - "*"
+  gateways:
+  - peopleapi-gateway
+  http:
+  - match:
+    - uri:
+        exact: /api/people
+    route:
+    - destination:
+        host: peopleapi
+        port:
+          number: 5004
